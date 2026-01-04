@@ -591,10 +591,7 @@ PRODUCT_PACKAGES += \
     vendor.google.whitechapel.audio.audioext@4.0 \
     vendor.google.whitechapel.audio.extension-V7-ndk \
     VZWAPNLib \
-    AICorePrebuilt-aicore_20250130.00_RC01 \
     AppDirectedSMSService \
-    CarrierSettings \
-    CarrierWifi \
     ConnMO \
     DCMO \
     DMService \
@@ -607,7 +604,6 @@ PRODUCT_PACKAGES += \
     OemDmTrigger \
     PixelCameraServicesConnectivityClient \
     TetheringEntitlement \
-    WfcActivation \
     OemRilHookService \
     PersistentBackgroundCameraServices \
     CarrierSetup \
