@@ -592,6 +592,7 @@ PRODUCT_PACKAGES += \
     vendor.google.whitechapel.audio.extension-V7-ndk \
     VZWAPNLib \
     AppDirectedSMSService \
+    CarrierWifi \
     ConnMO \
     DCMO \
     DMService \
